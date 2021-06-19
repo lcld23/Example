@@ -1,2 +1,4 @@
 # Example
-Example made by Michi
+
+This folder was created to try to use github!!!
+CIAOOOO
